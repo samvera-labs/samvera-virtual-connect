@@ -7,4 +7,6 @@
 
 Samvera Virtual Connect Program Committee Planning
 
+[Samvera Virtual Connect Wiki](https://wiki.duraspace.org/display/samvera/Samvera+Virtual+Connect+2019)
+
 This is an active workspace for Samvera Virtual Connect program planning. Please do not modify issues unless you are an active member of the program committee.
